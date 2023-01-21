@@ -8,9 +8,7 @@
  */
 
 public class NomiCognomi {
-
 	public static void main(String[] args) {
 		System.out.println("Munitello Lorenzo");
 	}
-
 }
